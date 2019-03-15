@@ -1,0 +1,21 @@
+.sovos-buttons-group {
+  display: flex;
+  > div {
+    margin: 0 5px;
+    &:first-child {
+      margin-left: 0;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+  &__left {
+    justify-content: flex-start;
+  }
+  &__right {
+    justify-content: flex-end;
+  }
+  &__center {
+    justify-content: center;
+  }
+}

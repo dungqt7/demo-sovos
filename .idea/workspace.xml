@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="492b9df7-6ed5-40dd-af4f-093cf95c2c5e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/AdditionalFields.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="160" column="39" selection-start-line="160" selection-start-column="39" selection-end-line="160" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tax-calculator/TaxCalculatorPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/configstore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/rootReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tax-calculator/reducers/organizationInfo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tax-calculator/actions/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mt3</find>
+      <find>Button</find>
+      <find>SovosFlatButton</find>
+      <find>CustmsDutTrfAmt</find>
+      <find>TaxCalculatorPage</find>
+      <find>Taxcalculator2</find>
+      <find>write</find>
+      <find>renderSovosSelectField</find>
+      <find>renderFromHelper</find>
+      <find>Act</find>
+      <find>SovosFlat</find>
+      <find>cardContentAdditionalField</find>
+      <find>20</find>
+      <find>Divi</find>
+      <find>border</find>
+      <find>calculationSetupValidate</find>
+      <find>required</find>
+      <find>initalValues</find>
+      <find>initialData</find>
+      <find>organizationInfo.data</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>organizationInfo</replace>
+    </replaceStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="npm install eslint-plugin-babel" />
+      <command text="npm install eslint-config-airbnb" />
+      <command text="npm install classnames" />
+      <command text="npm install DatePicker" />
+      <command text="npm uninstall DatePicker" />
+      <command text="npm install material-ui-pickers" />
+      <command text="npm install @date-io/moment" />
+      <command text="npm install moment" />
+      <command text="npm install yup" />
+      <command text="nodemon src/tax-calculator/taxCalculatorValidate.js" />
+      <command text="npm i @date-io/date-fns date-fns@next " />
+    </commandsHistory>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/tax-caculator/constants/taxCaculatorMapping.js" />
+        <option value="$PROJECT_DIR$/src/components/TaxCalculator/TaxCalculator.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/TaxCalculatorPage.test.js" />
+        <option value="$PROJECT_DIR$/src/reducers/initialState.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/SelectTransactionType.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/TaxCaculatorPage.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/index.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/ActionBar.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/index.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/ActionBar/index.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/TaxCaculatorForm.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/constants/taxCaculatorConstants.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/taxCalculatorPage.js" />
+        <option value="$PROJECT_DIR$/src/app/App.js" />
+        <option value="$PROJECT_DIR$/src/util/renderSovosTextField.js" />
+        <option value="$PROJECT_DIR$/src/util/renderSovosCheckboxField.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/DeliveryAmount.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/DeliveryInsuranceAmount.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/TransactionSource.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/CustomsDutiesAmount.js" />
+        <option value="$PROJECT_DIR$/src/util/SovosSimpleDynamicTextField.js" />
+        <option value="$PROJECT_DIR$/src/util/SovosButtonShowMenus.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/calculationSetupConstants.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/renderDiscounts.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/CalculationSetupAdditionalFields.js" />
+        <option value="$PROJECT_DIR$/src/util/renderSovosSelectField.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/Discount.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/ActionBar/ActionBar.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/DataPointLineItems/validation.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/DataPointLineItems/dataPointLineItemsValidation.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/taxCalculatorValidate.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/lineItemDefaultsValidate.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/DataPointLineItems/index.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/LineItemDefaults.js" />
+        <option value="$PROJECT_DIR$/src/util/common-validate/validateSovosBasicText.js" />
+        <option value="$PROJECT_DIR$/src/util/common-validate/validateSovosAmountNumber.ts" />
+        <option value="$PROJECT_DIR$/src/util/common-validate/validateSovosAmountNumber.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/CalculationSetup.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/calculationSetupValidate.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/TaxCalculatorForm.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/SovosDatePicker.js" />
+        <option value="$PROJECT_DIR$/src/util/renderSovosDatePicker.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/just-for-test/SovosDatePicker.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/Discounts.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/AdditionalFields.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/reducers/initialData.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/TaxCalculatorPage.js" />
+        <option value="$PROJECT_DIR$/src/tax-calculator/reducers/organizationInfo.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="641" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="main-source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main-source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main-source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main-source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main-source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main-source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main-source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main-source" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tax-calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\Sovos\Development\Branches\main-source\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Users\hoangdaod\AppData\Local\JetBrains\PhpStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Sovos\Development\Branches\main-source\src\tax-calculator\reducers" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\tax-calculator\just-for-test" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\tax-calculator\components\CalculationSetup" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\tax-calculator\components\ActionBar" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\tax-calculator" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="D:\Sovos\Development\Branches\main-source\src\tax-calculator\components\CalculationSetup\dynamic-components\CustomsDutiesAmount.js" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\util\renderSovosCheckboxField.js" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\util\renderSovosSelectField.js" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\util\renderSovosDatePicker.js" />
+      <recent name="D:\Sovos\Development\Branches\main-source\src\util\renderSovosTextField.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Sovos\Development\Branches\main-source" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492b9df7-6ed5-40dd-af4f-093cf95c2c5e" name="Default Changelist" comment="" />
+      <created>1552039004696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552039004696</updated>
+      <workItem from="1552039006068" duration="11136000" />
+      <workItem from="1552052898677" duration="4952000" />
+      <workItem from="1552286477379" duration="10763000" />
+      <workItem from="1552301174212" duration="8072000" />
+      <workItem from="1552360248630" duration="12786000" />
+      <workItem from="1552374274009" duration="16273000" />
+      <workItem from="1552395171585" duration="64000" />
+      <workItem from="1552395511970" duration="13950000" />
+      <workItem from="1552484363065" duration="628000" />
+      <workItem from="1552548487808" duration="8349000" />
+      <workItem from="1552569940066" duration="9709000" />
+      <workItem from="1552633087113" duration="4543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="101225000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71031094" visible="true" weight="0.3419062" />
+      <window_info id="Structure" order="1" sideWeight="0.28968903" side_tool="true" weight="0.3207262" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="10" visible="true" weight="0.2749591" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71031094" visible="true" weight="0.3207262" />
+      <window_info id="Structure" order="1" sideWeight="0.28968903" side_tool="true" weight="0.3207262" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="10" visible="true" weight="0.2749591" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/taxCalculator.css" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/TaxCaculatorForm.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/SvgIcon/SvgIcon.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/DeliveryInsuranceAmount.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/renderSovosCheckboxField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/TransactionSource.js" />
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/RadioDebitCredit.js" />
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/DeliveryAmount.js" />
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/constants/LineItemDefaultTransactionType.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/SovosButtonShowMenus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/CustomsDutiesAmount.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/renderSovosTextField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="101" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="101" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/SovosSimpleDynamicTextField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-form/es/Field.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/constants/taxCaculatorMapping.js" />
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/ActionBar/ActionBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/lineItemDefaultsValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/TaxCalculatorPage.test.js" />
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/calculationSetupConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/LineItemDefaults/LineItemDefaults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/DataPointLineItems/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/constants/taxCaculatorConstants.js" />
+    <entry file="file://$PROJECT_DIR$/src/util/common-validate/validateSovosBasicText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/common-validate/validateSovosAmountNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/DataPointLineItems/RenderTextField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/DataPointLineItems/dataPointLineItemsValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/renderSovosSelectField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/calculationSetupValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/taxCalculatorFormValidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/TaxCalculatorForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util/renderSovosDatePicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#137#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/just-for-test/SovosDatePicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/CalculationSetup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="32" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/Discount.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/Discounts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="52" column="3" selection-start-line="50" selection-start-column="35" selection-end-line="52" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/components/CalculationSetup/dynamic-components/AdditionalFields.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="160" column="39" selection-start-line="160" selection-start-column="39" selection-end-line="160" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/configstore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/actions/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="88" column="15" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/TaxCalculatorPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/api/axios.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/initialState.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tax-calculator/reducers/organizationInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
